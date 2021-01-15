@@ -1,4 +1,4 @@
-# Translator.Fluent.Plugin
+# NumberConverter.Fluent.Plugin
 
 ![alt text](numberconverter_image.jpg "Title")
 
